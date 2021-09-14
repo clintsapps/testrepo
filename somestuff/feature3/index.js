@@ -1,1 +1,1 @@
-console.log("rebase2merge test. ")
+console.log("rebase2merge test. completed a merge test")
